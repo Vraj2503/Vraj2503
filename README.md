@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vraj Patel
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning C Programming Language 
+- 🌱 I’m currently learning Web Development.
 - 📫 You can cintact me via my email vrajpatel250304@gmail.com
 
 <!---
