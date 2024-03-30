@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vraj Patel
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Web Development.
-- 📫 You can cintact me via my email vrajpatel250304@gmail.com
+- 👀 I’m curious about the fields of Machine Learning, Gen AI, Computer Vision and everything around it.
+- 📫 You can contact me via my email vrajpatel250304@gmail.com.
+
 
 <!---
 Vraj2503/Vraj2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
